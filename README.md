@@ -3,6 +3,7 @@
 Backend team lead, with 16+ years of hands-on experience with modern technologies, as well as 4+ years of experience in leading of development teams. Let us get in touch!
 
 ## Articles I wrote
+* [AWS Amplify Override Amplify-generated resources. On example with resolvers.](https://ancuta.org/posts/extending-amplify-on-example-modify-resolvers/)
 * [Protocol Buffers RPC calls through WebSockets on AWS Lambda with API Gateway](https://ancuta.org/posts/protocol-buffers-through-websockets-on-aws-lambda/)
 * [Docs Like Code by Anne Gentle](https://ancuta.org/posts/book-docs-like-code-by-anne-gentle/)
 * [Error tracking and incident response on production with Sentry + Squadcast + Linear + Slack](https://ancuta.org/posts/error-tracking-and-incident-response-on-production/)
