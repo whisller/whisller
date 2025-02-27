@@ -3,6 +3,7 @@
 Backend team lead, with 16+ years of hands-on experience with modern technologies, as well as 4+ years of experience in leading of development teams. Let us get in touch!
 
 ## Articles I wrote
+* [GitHub Rulesets: Your Safeguard for Your Repositories](https://ancuta.org/posts/github-rulesets-your-safeguard-for-your-repositories/)
 * [Update AWS CloudFront configuration using AWS CLI](https://ancuta.org/posts/update-aws-cloudfront-configuration-using-aws-cli/)
 * [Streaming GitHub audit log to S3 with OpenID Connect - Troubleshooting](https://ancuta.org/posts/streaming-github-audit-log-to-s3-with-openid-connect-troubleshooting/)
 * [AWS Amplify Override Amplify-generated resources. On example with resolvers.](https://ancuta.org/posts/extending-amplify-on-example-modify-resolvers/)
