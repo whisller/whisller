@@ -3,6 +3,7 @@
 Backend team lead, with 16+ years of hands-on experience with modern technologies, as well as 4+ years of experience in leading of development teams. Let us get in touch!
 
 ## Articles I wrote
+* [GitHub Actions: Security Hardening With OpenID Connect](https://ancuta.org/posts/github-actions-security-hardening-with-openid-connect/)
 * [Secrets Management in AWS: Using Secrets Manager](https://ancuta.org/posts/secrets-management-in-aws-using-secrets-manager-for-your-microservices/)
 * [GitHub Rulesets: Your Safeguard for Your Repositories](https://ancuta.org/posts/github-rulesets-your-safeguard-for-your-repositories/)
 * [Update AWS CloudFront configuration using AWS CLI](https://ancuta.org/posts/update-aws-cloudfront-configuration-using-aws-cli/)
