@@ -3,6 +3,7 @@
 Backend team lead, with 16+ years of hands-on experience with modern technologies, as well as 4+ years of experience in leading of development teams. Let us get in touch!
 
 ## Articles I wrote
+* [From Bug Fixes to Full Features: Building React Applications with Claude Code](https://ancuta.org/posts/ai-building-react-frontend-with-claude-code/)
 * [Refactoring Massive OpenAPI Specs with Claude Code](https://ancuta.org/posts/ai-claude-refactoring-massive-openapi-specs-with-claude-code/)
 * [AI: Improve your prompt with AI](https://ancuta.org/posts/ai-improve-your-prompt/)
 * [Serving static pages on AWS with Amplify](https://ancuta.org/posts/serving-static-pages-on-aws/)
