@@ -3,6 +3,7 @@
 Backend team lead, with 16+ years of hands-on experience with modern technologies, as well as 4+ years of experience in leading of development teams. Let us get in touch!
 
 ## Articles I wrote
+* [AI Agents in Your CI/CD: Why GitHub Rulesets Matter Now More Than Ever](https://ancuta.org/posts/ai-agents-in-your-ci-cd-why-github-rulesets-matter/)
 * [Claude Compose Sandbox: Flexible Docker Environment for AI Agents](https://ancuta.org/posts/claude-compose-sandbox-flexible-docker-environment-for-ai-agents/)
 * [Building a full CLI tool with spec-kit (spec-driven development) and Claude (AI)](https://ancuta.org/posts/building-cli-with-spec-kit-and-claude/)
 * [From Bug Fixes to Full Features: Building React Applications with Claude Code](https://ancuta.org/posts/ai-building-react-frontend-with-claude-code/)
