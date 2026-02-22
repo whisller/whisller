@@ -25,6 +25,10 @@ Backend team lead, with 16+ years of hands-on experience with modern technologie
 * [PostgREST - Write Your REST Server in SQL](https://ancuta.org/posts/postgrest/)
 * [Use of HTTP proxy (Charles Proxy) to debug mobile/desktop apps.](https://ancuta.org/posts/use-of-charles-http-proxy-to-debug-mobile-apps/)
 
+## Current projects
+- 🖌️ [ancuta.org](https://ancuta.org/) - place where I write about technical aspects
+- 🦺 [ai-sandbox](https://github.com/whisller/ai-sandbox) - heavily inspired by [docker sandbox](https://docs.docker.com/ai/sandboxes/), docker compose that allows you to run safely GenAI agent on your host
+
 <!--
 **whisller/whisller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
