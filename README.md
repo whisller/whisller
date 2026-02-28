@@ -2,6 +2,10 @@
 
 Backend team lead, with 16+ years of hands-on experience with modern technologies, as well as 4+ years of experience in leading of development teams. Let us get in touch!
 
+## Current projects
+- 🖌️ [ancuta.org](https://ancuta.org/) - place where I write about technical aspects
+- 🦺 [ai-sandbox](https://github.com/whisller/ai-sandbox) - heavily inspired by [docker sandbox](https://docs.docker.com/ai/sandboxes/), docker compose that allows you to run safely GenAI agent on your host
+
 ## Articles I wrote
 * [AI Agents in Your CI/CD: Why GitHub Rulesets Matter Now More Than Ever](https://ancuta.org/posts/ai-agents-in-your-ci-cd-why-github-rulesets-matter/)
 * [Claude Compose Sandbox: Flexible Docker Environment for AI Agents](https://ancuta.org/posts/claude-compose-sandbox-flexible-docker-environment-for-ai-agents/)
@@ -24,10 +28,6 @@ Backend team lead, with 16+ years of hands-on experience with modern technologie
 * [Debugging GitHub Actions Remotely](https://ancuta.org/posts/debugging-github-actions-remotely/)
 * [PostgREST - Write Your REST Server in SQL](https://ancuta.org/posts/postgrest/)
 * [Use of HTTP proxy (Charles Proxy) to debug mobile/desktop apps.](https://ancuta.org/posts/use-of-charles-http-proxy-to-debug-mobile-apps/)
-
-## Current projects
-- 🖌️ [ancuta.org](https://ancuta.org/) - place where I write about technical aspects
-- 🦺 [ai-sandbox](https://github.com/whisller/ai-sandbox) - heavily inspired by [docker sandbox](https://docs.docker.com/ai/sandboxes/), docker compose that allows you to run safely GenAI agent on your host
 
 <!--
 **whisller/whisller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
