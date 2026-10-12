@@ -7,6 +7,7 @@ Backend team lead, with 16+ years of hands-on experience with modern technologie
 - 🦺 [ai-sandbox](https://github.com/whisller/ai-sandbox) - heavily inspired by [docker sandbox](https://docs.docker.com/ai/sandboxes/), docker compose that allows you to run safely GenAI agent on your host
 
 ## Articles I wrote
+* [Short Sentences Make Better Docs, and a Lint Keeps Them Short](https://ancuta.org/posts/short-sentences-make-better-docs/)
 * [Give Your AI Agent Tools, Not Just Instructions](https://ancuta.org/posts/give-your-ai-agent-tools-not-just-instructions/)
 * [From Ticket to Green PR: Automating the Whole Dev Loop with an AI Agent Harness](https://ancuta.org/posts/from-ticket-to-green-pr-with-an-ai-agent-harness/)
 * [Ditching CloudWatch Logs for CloudTrail: How I Cut CloudWatch Costs by Over Half on a Recent Project](https://ancuta.org/posts/ditching-cloudwatch-logs-for-cloudtrail/)
